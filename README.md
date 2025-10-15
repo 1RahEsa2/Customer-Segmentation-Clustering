@@ -1,6 +1,7 @@
 Know Your Customers, Grow Your Business: A Segmentation Analysis
 
 # Customer Segmentation & Buying Behavior Analysis
+Know Your Customers, Grow Your Business: A Segmentation Analysis
 
 ## 📊 Project Overview
 
@@ -86,32 +87,4 @@ A comprehensive data science project that analyzes customer purchasing behavior 
 - **Cluster Statistics**: Mean values and characteristics per segment
 - **Behavioral Profiles**: Detailed understanding of each customer group
 
-### Actionable Business Decisions:
-Based on cluster statistics and mean values, we provide strategic recommendations for:
 
-- **Targeted Marketing**: Customized campaigns for each segment
-- **Product Recommendations**: Personalized suggestions based on cluster behavior
-- **Inventory Optimization**: Regional and temporal stock management
-- **Payment Strategy**: Preferred payment methods by segment
-- **Customer Service**: Segment-specific support approaches
-
-## 🚀 Technical Stack
-
-- **Python 3.10+**
-- **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, PyWaffle
-- **Machine Learning**: Scikit-learn, SciPy
-- **Clustering**: KMeans, DBSCAN, Agglomerative Clustering
-- **Validation**: Silhouette Analysis, Dendrograms, Elbow Method
-
-## 📊 Key Achievements
-
-- Successfully identified distinct customer segments with clear behavioral patterns
-- Implemented robust feature engineering pipeline for enhanced analysis
-- Applied multiple clustering validation techniques for optimal model selection
-- Delivered actionable business intelligence through comprehensive cluster analysis
-- Created intuitive visualizations for stakeholder communication
-
----
-
-*This project demonstrates an end-to-end data science workflow from raw data to strategic business recommendations, highlighting the power of customer segmentation in driving data-informed decision making.*
